@@ -1,2 +1,3 @@
-# introduction-to-X
-X = python
+# Introduction to Programming in X
+
+X = [Python](./python/readme.md)
